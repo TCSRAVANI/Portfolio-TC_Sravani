@@ -66,7 +66,7 @@ section {
   color: indigo;
 }
 .homebody {
-  background-image: url("Images/background1.jpg");
+  background-image: url("background1.jpg");
   background-size:cover;
   height: 87vh;
   margin-top: 11vh;
@@ -75,7 +75,7 @@ section {
   display: flex;
   position: relative;
   justify-items: right;
-  background-image: url("Images/photo.jpg");
+  background-image: url("photo.jpg");
   border-radius: 50%;
   background-color: red;
   height: 350px;
@@ -180,7 +180,7 @@ section {
   height: 290px;
   width: 290px;
   bottom: 150px;
-  background-image: url("Images/srav.png");
+  background-image: url("srav.png");
   top: 3430px;
 }
 .headcontact {
@@ -220,7 +220,7 @@ section {
   left: 800px;
   height: 290px;
   width: 290px;
-  background-image: url("Images/graduationpiccopy.jpeg");
+  background-image: url("graduationpiccopy.jpeg");
   background-size: cover;
   border-radius: 40px;
   box-shadow: -5px 20px 20px 5px white, -20px 20px 0px 10px rgb(199, 226, 250),
@@ -257,7 +257,7 @@ section {
 }
 .eduimg {
   position: absolute;
-  background-image: url("Images/demoimg.jpg");
+  background-image: url("demoimg.jpg");
   height: 350px;
   width: 350px;
   margin-left: 750px;
@@ -367,7 +367,7 @@ section {
   left: 800px;
   height: 290px;
   width: 290px;
-  background-image: url("Images/skill_blub_img.png");
+  background-image: url("skill_blub_img.png");
   border-radius: 40px;
   box-shadow: -5px 20px 20px 5px white, -20px 20px 0px 10px rgb(199, 226, 250),
     0px 0px 10px 15px white;
